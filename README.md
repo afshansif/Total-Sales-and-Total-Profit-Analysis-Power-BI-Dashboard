@@ -1,6 +1,7 @@
 # 📊 Total Sales and Total Profit Analysis — Power BI Dashboard
 
-![Line Chart](Line_chart.png)
+<img src="Line chart.png" width="300" alt="Home Screen"> 
+<br>
 
 ---
 
